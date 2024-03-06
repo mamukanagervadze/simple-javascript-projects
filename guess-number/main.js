@@ -33,6 +33,8 @@ while (true) {
     }
   }
   if (confirm("დავასრულოთ თამაში?")) {
+    continue;
+  } else {
     break;
   }
 }
