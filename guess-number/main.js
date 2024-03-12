@@ -32,7 +32,7 @@ while (true) {
       );
     }
   }
-  if (confirm("დავასრულოთ თამაში?")) {
+  if (confirm("გავაგრძელოთ თამაში?")) {
     continue;
   } else {
     break;
